@@ -1,0 +1,7 @@
+{
+  "name": "Chuva de Grana Pixel Arcade",
+  "description": "Jogo arcade retrô em pixel art onde você pega dinheiro caindo do céu em turnos de 60s e compra roupas luxuosas na loja!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
